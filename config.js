@@ -5,9 +5,9 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "SHABAN-SOBX-MD~5W0H1RIK#YQc1edyl4Ba_HaZv5x3TvSknbdqI8bz9N590336Wbhg",
 // add your Session Id 
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+AUTO_STATUS_SEEN: phu rocess.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
@@ -15,7 +15,7 @@ AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*Jᴜsᴛ Nᴏᴡ Sᴛᴀᴛᴜ
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "SHABAN-SOBX-MD",
+BOT_NAME: process.env.BOT_NAME || "Ｂｌａｃｋ⸙ｗｏｌｆ",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "SHABAN-SOBX-MD",
 // type sticker pack name 
@@ -25,9 +25,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "92342758XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923289154467-MD~YG0gXBDS#LZXYzCJHjry8wip43efmsB2rsLkCQLZFEiNv4_eiRp0",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Mʀ Sʜᴀʙᴀɴ",
+OWNER_NAME: process.env.OWNER_NAME || "Shahzaib",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
 // add bot owner name    
